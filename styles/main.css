@@ -31,7 +31,7 @@ body.landing {
     cursor: pointer;
 }
 
-/* Review this */ /* Review this */ /* Review this */ /* Review this */
+/* Review this */
 .navbar .links-container {
     display: table;
     position: absolute;
@@ -70,6 +70,10 @@ body.landing {
 .container {
     margin: 0;
     max-width: 64rem;
+}
+
+.container.narrow {
+    max-width: 56rem;
 }
 
 @media (min-width: 40rem) {
