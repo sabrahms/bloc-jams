@@ -58,6 +58,10 @@ body.album {
     width: 5%;
 }
 
+.song-item-playcount {
+    width: 5%;
+}
+
 /* #2 */
 @media (max-width: 40rem) and (min-width: 20rem) {
     .album-view-details {
